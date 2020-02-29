@@ -15,4 +15,4 @@ You can download this asset from Unity Asset Store:
 
 ## Online Documents:
 
-[Fighter complete Template Manual](https://www.swordmaster.info/documents/unity-assets-documents/fighter-complete-template-manual-document/)
+[Fighter Complete Template Manual](https://www.swordmaster.info/documents/unity-assets-documents/fighter-complete-template-manual-document/)
