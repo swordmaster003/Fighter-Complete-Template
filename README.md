@@ -13,6 +13,16 @@ The Fighter Complete Template is a complete fighter template, which integrates T
 You can download this asset from Unity Asset Store:
 [Fighter Complete Template](https://assetstore.unity.com/packages/templates/systems/fighter-complete-template-154370)
 
+## Control
+
+<center>Control On PC:</center>
+
+![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/ControlOnPC.png)
+
+<center>Control On Mobile:</center>
+
+![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/ControlOnMobile.png)
+
 ## Online Documents:
 
 [Fighter Complete Template Manual](https://www.swordmaster.info/documents/unity-assets-documents/fighter-complete-template-manual-document/)
