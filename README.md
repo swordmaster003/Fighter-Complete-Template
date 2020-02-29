@@ -5,3 +5,9 @@
 The Fighter Complete Template is a complete fighter template, which integrates The Fighter Flight Template and The Fighter Weapon System Template.  It can help you create your own fighter game easily.
 
 ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Cover.png)
+
+## Download
+
+You can download this asset from Unity Asset Store:
+[Fighter Complete Template](https://assetstore.unity.com/packages/templates/systems/fighter-complete-template-154370
+)
