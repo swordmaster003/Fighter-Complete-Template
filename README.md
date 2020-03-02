@@ -29,103 +29,79 @@ You can download this asset from Unity Asset Store:
 
 ## Features
 
-<BR>
-<STRONG> * </STRONG>
-The types of fighters include 16 US fighters, 10 EU fighters, and 8 Russian fighters,
-these fighters have different flight performance and the number of different weapons and weapons mounted.
-</BR> 
-<BR>
-You can easily switch the type of fighter with just one click.
-</BR> 
+- The types of fighters include 16 US fighters, 10 EU fighters, and 8 Russian fighters, these fighters have different flighter
+  performance and the number of different weapons and weapons mounted.
 
-<BR>
-<STRONG> * </STRONG>
-The fighter can be controlled by the keyboard of the PC, and also can 
+- The Fighter Flight System is designed according to the aerodynamics of modern fighter.
 
-be controlled by the D-pad and virtual buttons on the mobile.
-</BR>
+- The Fighter HUD system is Realistic and High Fidelity.
+  It automatically calculates and shows current Speed, Altitude, Heading, Pitch Ladder, Horizon Line,and so on.
 
-<BR>
-<STRONG> * </STRONG>
-The Flight Flight System of the fighter is designed according to the aerodynamics of modern fighter
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/HUD.png)
+  
+- The Fighter Machine Gun System has a maximum heat limit. When the maximum heat is exceeded, it will enter the cool down state. 
 
-<BR>
-<STRONG> * </STRONG>
-The HUD system of the fighter is Realistic and High Fidelity.
-</BR>
-It automatically calculates and shows current Speed, Altitude, Heading, Pitch Ladder, Horizon Line,and so on.
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/MachineGun2.png)
+  
+  After the cooling is completed, the machine gun can be fired again.
+  
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/MachineGun1.png)
+  
+- The Fighter Missile System has two working modes:
+  
+  (1).One mode is called Single-Target mode,which means only one attack target can be locked at once and the missile you will launch is called the general missle(this missile is a short range missile). 
 
-<BR>
-<STRONG> * </STRONG>
-The Fighter Missile System has two working modes:
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/AimSingle.png)
 
-<BR>
-One mode is called Single-Target mode,which means only one attack target can be locked at once and the missile you will launch is called 
-the general missle(this missile is a short range missile). 
-</BR>
+  (2).Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are called the special missiles(these missiles are the long range missiles).
 
-<BR>
-Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are called the special missiles(these missiles are the long range missiles).
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/AimMulti.png)
 
-<BR>
-<STRONG> * </STRONG>
-The Fighter Machine Gun System has a maximum heat limit. When the maximum heat is exceeded, it will enter the cool down state . After the cooling is completed, the machine gun can be fired again.
-</BR>
+- All the the missiles, the bullets, and the particle effects use the Object Pooling System to spawn and recycle in this template.
 
-<BR>
-<STRONG> * </STRONG>
-All the the missiles, the bullets, and the particle effects use the Object Pooling System to spawn and recycle in this template.
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/ObjectPool.png)
 
-<BR>
-<STRONG> * </STRONG>
-The custom editor of each script has been carefully designed.
-</BR>
-Their appearance is neat and friendly.
-</BR>
+- Each fighter has different flight performance and the number of different weapons and weapons mounted.
 
-<BR>
-<STRONG> * </STRONG>
-Include two big and beautiful environments
-they are the Alps Mountain, and the Atacama Desert.
-</BR>
-<BR>
-Each environment is made up of nine terrain blocks,and these terrains are generated from map data exported by Bing Map.
-</BR>
+- You can easily switch the type of Player Fighter with just one click by the Fighter Switcher component on the Player Fighter. 
 
-<BR>
-<STRONG> * </STRONG>
-Detailed documentation
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/SwitchFighter.png)
 
-<BR>
-<STRONG>
-All script systems on the fighter:
-</STRONG>
-</BR>
+- The custom editor of each script has been carefully designed.Their appearance is neat and friendly.
 
-<BR>
- - Fighter Center Control System.
-</BR>
- - Fighter Hardware Input System.
-</BR>
- - Fighter Mobile Input System.
-</BR>
- - Fighter Flight System.
-</BR>
- - Fighter Animation System.
-</BR>
- - Fighter HUD System.
-</BR>
- - Fighter Missile System.
-</BR>
- - Fighter Machine Gun System.
-</BR>
- - Fighter Camera System.
-</BR>
- - Fighter Switcher.
-</BR>
+- The types of AI fighters in three countries：
+
+  (1).The USA AI Fighters:
+   
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/USA_AI_Fighters.png)
+
+  (2).The Russia AI Fighters:
+  
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Russia_AI_Fighters.png)
+
+  (3).The Europe AI Fighters:
+  
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Europe_AI_Fighters.png)
+
+ - Include two big and beautiful environments,they are the Alps Mountain, and the Atacama Desert. 
+
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Environment1.png)
+   
+   Each environment is made up of nine terrain blocks,and these terrains are generated from map data exported by Bing Map.
+   
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Environment2.png)
+
+ - Detailed documentation
+
+## All script systems on the fighter:
+
+- Fighter Center Control System.
+- Fighter Hardware Input System.
+- Fighter Mobile Input System.
+- Fighter Flight System.
+- Fighter Animation System.
+- Fighter HUD System.
+- Fighter Missile System.
+- Fighter Machine Gun System.
+- Fighter Camera System.
+- Fighter Switcher.
