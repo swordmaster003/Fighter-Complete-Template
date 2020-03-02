@@ -32,6 +32,20 @@ You can download this asset from Unity Asset Store:
 - The types of fighters include 16 US fighters, 10 EU fighters, and 8 Russian fighters, these fighters have different flighter
   performance and the number of different weapons and weapons mounted.
 
+- The types of fighters in three countries：
+
+  (1).The USA Fighters:
+   
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/USA_AI_Fighters.png)
+
+  (2).The Russia Fighters:
+  
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Russia_AI_Fighters.png)
+
+  (3).The Europe Fighters:
+  
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Europe_AI_Fighters.png)
+
 - The Fighter Flight System is designed according to the aerodynamics of modern fighter.
 
 - The Fighter HUD system is Realistic and High Fidelity.
@@ -67,22 +81,6 @@ You can download this asset from Unity Asset Store:
 
   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/SwitchFighter.png)
 
-- The custom editor of each script has been carefully designed.Their appearance is neat and friendly.
-
-- The types of AI fighters in three countries：
-
-  (1).The USA AI Fighters:
-   
-   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/USA_AI_Fighters.png)
-
-  (2).The Russia AI Fighters:
-  
-   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Russia_AI_Fighters.png)
-
-  (3).The Europe AI Fighters:
-  
-   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Europe_AI_Fighters.png)
-
  - Include two big and beautiful environments,they are the Alps Mountain, and the Atacama Desert. 
 
    ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Environment1.png)
@@ -90,6 +88,8 @@ You can download this asset from Unity Asset Store:
    Each environment is made up of nine terrain blocks,and these terrains are generated from map data exported by Bing Map.
    
    ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Environment2.png)
+
+- The custom editor of each script has been carefully designed.Their appearance is neat and friendly.
 
  - Detailed documentation
 
