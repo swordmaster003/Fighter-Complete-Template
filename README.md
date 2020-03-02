@@ -81,7 +81,7 @@ You can download this asset from Unity Asset Store:
 
    ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Environment1.png)
    
-   Each environment is made up of nine terrain blocks,and these terrains are generated from map data exported by Bing Map.
+   Each environment is made up of nine terrain blocks which are generated from map data exported by Bing Map.
    
    ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/Environment2.png)
 
