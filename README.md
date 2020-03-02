@@ -29,10 +29,8 @@ You can download this asset from Unity Asset Store:
 
 ## Features
 
-- The types of fighters include 16 US fighters, 10 EU fighters, and 8 Russian fighters, these fighters have different flighter
-  performance and the number of different weapons and weapons mounted.
-
-- The types of fighters in three countries：
+- The types of fighters include 16 US fighters, 10 EU fighters, and 8 Russian fighters.
+  Each fighter has different flight performance and the number of different weapons and weapons mounted.
 
   (1).The USA Fighters:
    
@@ -74,8 +72,6 @@ You can download this asset from Unity Asset Store:
 - All the the missiles, the bullets, and the particle effects use the Object Pooling System to spawn and recycle in this template.
 
   ![image](https://github.com/swordmaster003/Fighter-Complete-Template/blob/master/Screenshots/ObjectPool.png)
-
-- Each fighter has different flight performance and the number of different weapons and weapons mounted.
 
 - You can easily switch the type of Player Fighter with just one click by the Fighter Switcher component on the Player Fighter. 
 
